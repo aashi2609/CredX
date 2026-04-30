@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="public/icon.svg" width="80" alt="CredX Logo" />
-</p>
+
 
 <h1 align="center">CredX</h1>
 <h3 align="center">Decentralized Invoice Factoring Protocol</h3>
